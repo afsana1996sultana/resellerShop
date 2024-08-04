@@ -1,1 +1,1 @@
-# estore-classic
+# ResellerShop
